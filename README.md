@@ -1,6 +1,6 @@
-# untitled
+# aplha2numencryptor
 
-A new Flutter project.
+aphanumeric based encryption build on flutter using gpt 3
 
 ## Getting Started
 
